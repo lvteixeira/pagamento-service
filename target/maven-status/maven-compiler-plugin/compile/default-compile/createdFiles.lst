@@ -1,0 +1,6 @@
+com/example/pagamentoService/Application.class
+com/example/pagamentoService/utils/EnvSetup.class
+com/example/pagamentoService/entidade/Pedido.class
+com/example/pagamentoService/entidade/RegistroPgtoMensal.class
+com/example/pagamentoService/entidade/Cliente.class
+com/example/pagamentoService/entidade/TipoPgto.class
