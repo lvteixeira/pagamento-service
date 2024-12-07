@@ -1,6 +1,4 @@
 /home/lzndev/Documents/workspace/code/git/pagamento-service/src/main/java/com/example/pagamentoService/Application.java
+/home/lzndev/Documents/workspace/code/git/pagamento-service/src/main/java/com/example/pagamentoService/dao/ClienteDAO.java
 /home/lzndev/Documents/workspace/code/git/pagamento-service/src/main/java/com/example/pagamentoService/entidade/Cliente.java
-/home/lzndev/Documents/workspace/code/git/pagamento-service/src/main/java/com/example/pagamentoService/entidade/Pedido.java
-/home/lzndev/Documents/workspace/code/git/pagamento-service/src/main/java/com/example/pagamentoService/entidade/RegistroPgtoMensal.java
-/home/lzndev/Documents/workspace/code/git/pagamento-service/src/main/java/com/example/pagamentoService/entidade/TipoPgto.java
 /home/lzndev/Documents/workspace/code/git/pagamento-service/src/main/java/com/example/pagamentoService/utils/EnvSetup.java

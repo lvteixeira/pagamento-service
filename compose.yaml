@@ -1,0 +1,8 @@
+services:
+  oracle:
+    image: "gvenzl/oracle-xe:21.3.0-slim"
+    environment:
+      - ORACLE_USER=SYS
+      - ORACLE_PASSWORD=123
+    ports:
+      - "1521"

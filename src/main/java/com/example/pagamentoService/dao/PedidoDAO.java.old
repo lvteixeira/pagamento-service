@@ -1,0 +1,16 @@
+package com.example.pagamentoService.dao;
+
+import com.example.pagamentoService.entidade.Pedido;
+import org.springframework.data.jpa.repository.JpaRepository;
+import org.springframework.data.jpa.repository.Query;
+import org.springframework.data.repository.query.Param;
+
+import java.util.List;
+
+public interface PedidoDAO extends JpaRepository<Pedido, Long> {
+    @Query("SELECT p FROM Pedido p WHERE p.cliente.id = :clienteId")
+    List<Pedido> findAllPedidosByCliente(@Param("clienteId") Long clienteId);
+
+    @Query("SELECT p FROM Pedido p WHERE p.item.id = :itemId")
+    List<Pedido> findAllPedidosByItem(@Param("itemId") Long itemId);
+}
