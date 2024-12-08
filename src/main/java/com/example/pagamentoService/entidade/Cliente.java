@@ -3,7 +3,7 @@ package com.example.pagamentoService.entidade;
 import jakarta.persistence.*;
 
 @Entity
-@Table(name = "CLIENTES")
+@Table(name = "CLIENTES", schema = "API_PGTOS")
 public class Cliente {
     @Id
     @GeneratedValue(strategy = GenerationType.IDENTITY)

@@ -1,4 +1,14 @@
-com/example/pagamentoService/Application.class
-com/example/pagamentoService/entidade/Cliente.class
 com/example/pagamentoService/utils/EnvSetup.class
+com/example/pagamentoService/service/ClienteService.class
+com/example/pagamentoService/controller/ClienteController.class
+com/example/pagamentoService/entidade/Cliente.class
 com/example/pagamentoService/dao/ClienteDAO.class
+com/example/pagamentoService/Application.class
+com/example/pagamentoService/dto/ClienteDTO.class
+com/example/pagamentoService/config/SecurityConfig.class
+com/example/pagamentoService/dto/LoginRequest.class
+com/example/pagamentoService/dto/JwtResponse.class
+com/example/pagamentoService/JwtTokenProvider.class
+com/example/pagamentoService/config/WebConfig.class
+com/example/pagamentoService/controller/AuthController.class
+com/example/pagamentoService/JwtTokenFilter.class

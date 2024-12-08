@@ -1,4 +1,14 @@
 /home/lzndev/Documents/workspace/code/git/pagamento-service/src/main/java/com/example/pagamentoService/Application.java
+/home/lzndev/Documents/workspace/code/git/pagamento-service/src/main/java/com/example/pagamentoService/JwtTokenFilter.java
+/home/lzndev/Documents/workspace/code/git/pagamento-service/src/main/java/com/example/pagamentoService/JwtTokenProvider.java
+/home/lzndev/Documents/workspace/code/git/pagamento-service/src/main/java/com/example/pagamentoService/config/SecurityConfig.java
+/home/lzndev/Documents/workspace/code/git/pagamento-service/src/main/java/com/example/pagamentoService/config/WebConfig.java
+/home/lzndev/Documents/workspace/code/git/pagamento-service/src/main/java/com/example/pagamentoService/controller/AuthController.java
+/home/lzndev/Documents/workspace/code/git/pagamento-service/src/main/java/com/example/pagamentoService/controller/ClienteController.java
 /home/lzndev/Documents/workspace/code/git/pagamento-service/src/main/java/com/example/pagamentoService/dao/ClienteDAO.java
+/home/lzndev/Documents/workspace/code/git/pagamento-service/src/main/java/com/example/pagamentoService/dto/ClienteDTO.java
+/home/lzndev/Documents/workspace/code/git/pagamento-service/src/main/java/com/example/pagamentoService/dto/JwtResponse.java
+/home/lzndev/Documents/workspace/code/git/pagamento-service/src/main/java/com/example/pagamentoService/dto/LoginRequest.java
 /home/lzndev/Documents/workspace/code/git/pagamento-service/src/main/java/com/example/pagamentoService/entidade/Cliente.java
+/home/lzndev/Documents/workspace/code/git/pagamento-service/src/main/java/com/example/pagamentoService/service/ClienteService.java
 /home/lzndev/Documents/workspace/code/git/pagamento-service/src/main/java/com/example/pagamentoService/utils/EnvSetup.java
